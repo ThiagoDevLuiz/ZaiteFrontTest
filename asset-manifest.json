@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8c2b3c1d.css",
+    "main.js": "./static/js/main.b26d3375.js",
+    "static/js/787.3fd91f8b.chunk.js": "./static/js/787.3fd91f8b.chunk.js",
+    "static/media/banner1.png": "./static/media/banner1.7fe55a4c7a940aa8518c.png",
+    "static/media/banner3.png": "./static/media/banner3.8286f1542d4fdb588c23.png",
+    "static/media/banner2.png": "./static/media/banner2.90646cd120ce996ef606.png",
+    "static/media/FutuLtIt.ttf": "./static/media/FutuLtIt.3446b82de77dfe61dada.ttf",
+    "static/media/FutuLt.ttf": "./static/media/FutuLt.697f5d72e870116bb004.ttf",
+    "static/media/noticia.jpg": "./static/media/noticia.64d271d12b5b1751c437.jpg",
+    "static/media/logo1.png": "./static/media/logo1.c55fd5e9764a289c6172.png",
+    "index.html": "./index.html",
+    "main.8c2b3c1d.css.map": "./static/css/main.8c2b3c1d.css.map",
+    "main.b26d3375.js.map": "./static/js/main.b26d3375.js.map",
+    "787.3fd91f8b.chunk.js.map": "./static/js/787.3fd91f8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c2b3c1d.css",
+    "static/js/main.b26d3375.js"
+  ]
+}
